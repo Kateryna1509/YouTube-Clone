@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../icons"
+		},
+		{
+			"path": "../pictures"
+		},
+		{
+			"path": "../profile-picture"
+		},
+		{
+			"path": "."
+		}
+	]
+}
